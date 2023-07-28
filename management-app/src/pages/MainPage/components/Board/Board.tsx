@@ -67,6 +67,7 @@ function Board({ titleBoard, description, id, columnNum }: TBoardProps) {
               height: '200px',
               position: 'relative',
               backgroundColor: 'primary.light',
+              marginRight: '0',
             },
             {
               '&:hover': {
